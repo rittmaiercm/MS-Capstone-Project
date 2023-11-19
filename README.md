@@ -3,7 +3,6 @@
 ## Project Scope
 - Assessing how COVID-19 influenced how far people were willing to drive to visit a park
 - Focused on Lakeshore Park (Sequoyah Hills area) and Victor Ashe Park (Pleasant Ridge Area)
-- Lakeshore Park commonly referred to as la_park and Victor Ashe Park commonly referred to as va_park throughout the provided code
 
 ## Main Takeaways
 - Lakeshore Park saw the distance to the park influencing the number of visitors but they have limited infrastructure that allows people to walk to the park within even a 5 minute area
