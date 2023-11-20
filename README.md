@@ -4,9 +4,13 @@
 - Assessing how COVID-19 influenced how far people were willing to drive to visit a park
 - Focused on Lakeshore Park (Sequoyah Hills area) and Victor Ashe Park (Pleasant Ridge Area)
 
-## Main Takeaways
-- Lakeshore Park saw the distance to the park influencing the number of visitors but they have limited infrastructure that allows people to walk to the park within even a 5 minute area
-- Victor Ashe Park did not see distance being a major influence on the number of visitors and accounted for very little statistical significance compared to Lakeshore Park; this can be contributed to the infrastructure surrounding Victor Ashe Park - there are many sidewalks allowing people to walk to the park within a 10 or so minute area
+## Conclusions for Each Park
+- Lakeshore Park
+     - The distance that people traveled to get to the park was the top factor affecting visitor numbers
+     - This was expected since there is limited infrastructure that people could use to walk to the park
+- Victor Ashe Park
+     -  Distance did not heavily influence visitor numbers
+     -  This could be attributed to the well-developed infrastructure surrounding the park within a 10 minute walking radius such as sidewalks and walking trails leading to different parts of the park
 
 ## Data
 - Geodatabase: capstone_gdb.gdb
