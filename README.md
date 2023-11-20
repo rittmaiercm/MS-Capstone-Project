@@ -30,9 +30,8 @@
     - Datasets projected into the spatial projection - NAD_1983_2011_StatePlane_Tennessee_FIPS_4100
 
 ## Capstone Project Outputs
-- OLS Figures and Maps
-- Graphs and Chart Images
-- Near Distance Files
 - OLS Map Outputs 
+- OLS Figures and Maps
 - OLS Regression Plots 
 - OLS Tables
+- Graphs and Chart Images
