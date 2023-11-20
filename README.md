@@ -30,7 +30,6 @@
     - Datasets projected into the spatial projection - NAD_1983_2011_StatePlane_Tennessee_FIPS_4100
 
 ## Capstone Project Outputs
-- Departmental Forms
 - OLS Figures and Maps
 - Graphs and Chart Images
 - Near Distance Files
