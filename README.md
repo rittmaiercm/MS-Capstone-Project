@@ -2,7 +2,7 @@
 
 ## Project Scope
 - Assessing how COVID-19 influenced how far people were willing to drive to visit a park
-- Focused on Lakeshore Park (Sequoyah Hills area) and Victor Ashe Park (Pleasant Ridge Area)
+- Focused on Lakeshore Park (Sequoyah Hills area) and Victor Ashe Park (Pleasant Ridge Area) in Knoxville, TN
 
 ## Conclusions for Each Park
 - Lakeshore Park
